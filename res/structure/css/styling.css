@@ -14,6 +14,24 @@
 
 }
 
+label {
+   color: #fff;
+}
+
+.dateLabel {
+   color:red;
+}
+
+.hiddenElm {
+
+   visibility: hidden;
+   color: red;
+}
+
+form {
+   text-align: center;
+}
+
 .navbar {
     width: 85%;
     margin: auto;
