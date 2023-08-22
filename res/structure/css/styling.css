@@ -85,6 +85,45 @@ form {
     
  }
 
+ /* Agregadas para "equipo" */
+ .teamt{
+   width: 100%;
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+ }
+
+ /* Estilos para el grupo de imágenes */
+.images {
+   display: flex;
+   justify-content: space-around;
+   align-items: flex-start;
+   margin-top: 20px;
+}
+
+.image-wrapper {
+   text-align: center;
+}
+
+/* Estilos para cada imagen */
+img {
+   width: 250px;
+   height: auto;
+   border-radius: 20px;
+   border: 2px solid #ccc;
+   margin: 0 10px;
+}
+
+p{
+   margin-top: 10px;
+   width: 250px;
+   
+}
+
+ /* Hasta aquí xd */
+
  .subtext {
     color: 09BC8A;
  }
